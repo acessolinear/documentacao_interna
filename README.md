@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-checklist">Sobre o Checklist</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-torre-4-produtos">Torre 4 (Produtos)</a>
+  <a href="#memo-torre-4-(produtos)">Torre 4 (Produtos)</a>
 </p>
 
 ## :rocket: Sobre o Checklist
@@ -29,7 +29,7 @@ das listadas ainda não foram testadas.
 Os usuários destes documentos devem serguir o seu processo de teste normalmente como faz hoje. Ao final, deve consultar estes checklist para ver o que eventualmente esqueceu de fazer, ou mesmo já identificar o que foi realizado.
 Não devemos de forma algum começar o nosso teste pelo checklist, seu objetivo e ser a prova final de nosso trabalho.
 
-## :memo: Torre 4 Produtos
+## :memo: Torre 4 (Produtos)
 
 Checklist produzidos para a Torre de Produtos (Torre 4).
 Abaixo listaremos as telas que já possuem a documentação implementada:
