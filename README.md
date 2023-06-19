@@ -35,6 +35,6 @@ Checklist produzidos para a Torre de Produtos (Torre 4).
 Abaixo listaremos as telas que já possuem a documentação implementada:
 
 <a href="CadastroFornecedores.md">Cadastro de Fornecedores do Produto</a></p>
-<a href="LiberacaEntradaPendente.md">Liberação Entrada Pendente</a></p>
+<a href="LiberacaoEntradaPendente.md">Liberação Entrada Pendente</a></p>
 <a href="PromocaoPAgueMenos.md">Promoção Pague Menos</a></p>
 <a href="RelatorioCurvaABC.md">Relatório Curva ABC</a></p>
