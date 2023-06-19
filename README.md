@@ -33,17 +33,30 @@ Não devemos de forma algum começar o nosso teste pelo checklist, seu objetivo 
 
 Checklist produzidos para a Torre dd Produtos. Abaixo listaremos as telas que já possuem a documentação implementada.
 
-<a href="liberação-entrada-pendente">Liberação Entrada Pendente</a>
+[Liberação Entrada Pendente](#liberação-entrada-pendente)</p>
+[Relatório Curva ABC](#relatório-curva-abc)
 
 ## Liberação Entrada Pendente
 
 Caminho da tela no projeto (SGlinx > Forms > LiberacaoEntradaPendente)
-## Críticos
- - Liberar mais de uma nota ao mesmo tempo, sendo que cada nota possua vários produtos
- - Verificar a movimentação de estoque dos produtos testados
- - Testar nota com produto que tem desmembramento
- - Nota fiscal aparecer liberada no sistema
-## Funcionamentos Gerais
- - Verificar a liberação de contas a pagar
- - Verificar se as notas e seus itens aparecem corretamento no Recebimento de Mercadoria e também do Via Cega
- - Verificar a geração do Acordo Comercial
+  ## Críticos
+   - Liberar mais de uma nota ao mesmo tempo, sendo que cada nota possua vários produtos
+   - Verificar a movimentação de estoque dos produtos testados
+   - Testar nota com produto que tem desmembramento
+   - Nota fiscal aparecer liberada no sistema
+  ## Funcionamentos Gerais
+   - Verificar a liberação de contas a pagar
+   - Verificar se as notas e seus itens aparecem corretamento no Recebimento de Mercadoria e também do Via Cega
+   - Verificar a geração do Acordo Comercial
+
+## Relatório Curva ABC
+
+Caminho da tela no projeto (LinearLibRelatorios > Forms > RelABCVenda)
+  ## Testes para alteração no Form ou outros objetos do VB usandos na tela
+   - Validar se os dados ou totalizadores do relatório testado batem com outro da mesma tela, usando os mesmo parâmetros
+   - Quando o filtro de data é usado tentar mudar o período e selecionar maior do que o informado
+   - Se os filtros apontandos no caso são de milti seleção, aumentar a quantidade de itens selecionados para ver se influencia no resultado
+   - Comprar os resultados e totalizadores com os relatórios de Venda ECF
+   - Variar pesquisando em mais de um filial
+  ## Testes para Alteação no Report
+   - 
