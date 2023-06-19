@@ -31,7 +31,8 @@ Não devemos de forma algum começar o nosso teste pelo checklist, seu objetivo 
 
 ## :memo: Torre 4 Produtos
 
-Checklist produzidos para a Torre de Produtos (Torre 4). Abaixo listaremos as telas que já possuem a documentação implementada.
+Checklist produzidos para a Torre de Produtos (Torre 4).
+Abaixo listaremos as telas que já possuem a documentação implementada:
 
 <a href="CadastroFornecedores.md">Cadastro de Fornecedores do Produto</a></p>
 <a href="LiberacaEntradaPendente.md">Liberação Entrada Pendente</a></p>
