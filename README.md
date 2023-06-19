@@ -34,7 +34,8 @@ Não devemos de forma algum começar o nosso teste pelo checklist, seu objetivo 
 Checklist produzidos para a Torre dd Produtos. Abaixo listaremos as telas que já possuem a documentação implementada.
 
 [Liberação Entrada Pendente](#liberação-entrada-pendente)</p>
-[Relatório Curva ABC](#relatório-curva-abc)
+[Relatório Curva ABC](#relatório-curva-abc)</p>
+<a href="PromocaoPAgueMenos.md">Promoção Pague Menos</a>
 
 ## Liberação Entrada Pendente
 
