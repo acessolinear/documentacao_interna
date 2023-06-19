@@ -22,8 +22,8 @@
 ## :rocket: Sobre o Checklist
 
 O Checklists são documentos criados para auxiliar desenvolvedor e testers na etapa final do nosso processo de desenvolvimento, que consistem em validar e atestar a qualidade das aplicações e das entregas realizadas.
-A qualidade de nossas ferramentas se inicia no teste final da realizados pelo desenvolvedor em usa tarega, na validação e homologação realizadas na Qualidade, assim como nas checagens finais das telas e rotinas na versão 
-final. Em todos estes casos citados acima o checklist pode ser aplicado.
+Este processo em nossas ferramentas se inicia no teste final realizado pelo desenvolvedor em usa entrega, na validação e homologação realizados na Qualidade, assim como nas checagens finais das telas e rotinas na versão 
+final. Em todos estes casos citados o checklist pode ser aplicado.
 Como base seu objetivo é ter listado um conjunto de regras/cenários que serão usados no final do tabalho de cada um dos atores do nosso processo (desenvolvedor, tester, validador, homologador) visando verificar quais etapas
 das listadas ainda não foram testadas.
 O usuário destes documentos deve serguir o seu processo de teste normalmente como faz hoje. Ao final deve consultar estes checklist para ver o que esqueceu de fazer, ou mesmo já identifica o que foi realizado.
