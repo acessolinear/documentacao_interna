@@ -7,5 +7,5 @@ Caminho da tela no projeto (LinearLibRelatorios > Forms > RelABCVenda)
    - Se os filtros apontandos no caso são de milti seleção, aumentar a quantidade de itens selecionados para ver se influencia no resultado
    - Comprar os resultados e totalizadores com os relatórios de Venda ECF
    - Variar pesquisando em mais de um filial
- ## Testes para Alteação no Report
+ ## Testes para alteração no Report
    - 
