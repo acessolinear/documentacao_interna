@@ -2,7 +2,7 @@
 
 Caminho da tela no projeto (SGlinx > Forms > EtiquetaProduto.frm). Nas pasta está salvo em SGLinx\AlteracaoRestrita\Forms\Imprimir.frm
  ## Críticos
-   - Para casos de etiqueta nutricional, verificar as informações extras que podem sair em até 7 ou até 13 linhas
+   - Para casos de etiqueta nutricional, verificar as informações extras que podem sair entre 1 e 7 ou entre 1 e 13 linhas
      - Verificar o uso do X_CUSTOMIZAR(42) que permite configurar para estas linhas em 70 caracteres, testar este necário
      - Testar a informações nutricionais e extras sem o X_CUSTOMIZAR(42) que terá 50 caracteres por linha.
    - Testar as etiquetas de gondola e produto para atestar se não foram impactados
