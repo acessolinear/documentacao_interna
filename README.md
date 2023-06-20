@@ -37,6 +37,7 @@ Abaixo listaremos as telas que já possuem a documentação implementada:
 
 <a href="CadastroFornecedores.md">Cadastro de Fornecedores do Produto</a></p>
 <a href="ExportaCarga.md">Exportação de Carga - Transmissão de Dados para o PDV</a></p>
+<a href="ImprimirEtiquetas.md">Imprimir Etiquetas</a></p>
 <a href="LiberacaoEntradaPendente.md">Liberação Entrada Pendente</a></p>
 <a href="PromocaoPAgueMenos.md">Promoção Pague Menos</a></p>
 <a href="RelatorioCurvaABC.md">Relatório Curva ABC</a></p>
