@@ -8,6 +8,6 @@ Caminho da tela no projeto (SGlinx > Forms > EtiquetaProduto.frm). Nas pasta est
    - Testar as etiquetas de gondola e produto para atestar se não foram impactados
    - Nào testar somente a opção que imprime digitando o código do produto, explorar as outras combinações que a tela permite, que listam no grid da tela.
    - Para casos em que se trata do preço do produto, alterar as opções da tela ao máximo possível variando os checkboxs.
-     - Testar os preços com os rotinas que preenchem o grid da tela. Algumas delas gravam preços em colunas diferentes. o que na programação pode sofre impactos.
+     - Testar os preços com os rotinas que preenchem o grid da tela. Algumas delas gravam preços em colunas diferentes. o que na programação pode sofrer impactos.
  ## Funcionamentos Gerais
    - Testar os checks do F6 que aparecem mais opções de filtros
