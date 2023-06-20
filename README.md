@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-checklist">Sobre o Checklist</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-torre-4-produtos">Torre 4 (Produtos)</a>
+  <a href="#memo-torre-de-produtos">Torre 4 (Produtos)</a>
 </p>
 
 ## :rocket: Sobre o Checklist
