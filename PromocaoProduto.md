@@ -8,5 +8,5 @@ Caminho da tela no projeto (LinearComercial > Forms > CadPromocao2.frm)
   - Se promoção cadastrada em 1 dia para ser iniciada no dia posterior, já realizar o cadastro da promoção como Ativo. Ex: Promoção cadastrada no dia 13/06 para iniciar dia 14/06, sistema já cadastrar a promoção como Ativa.
   - Complementar a tela existe a rotina de ativação de promoção na inicialização do sistema:
       - Nela deve ser considerar Data - 1, para que seja realizado a ativação da promoção. Ex: Promoção cadastrada no dia 13/06 para iniciar dia 14/06, sistema mudar essa promoção para ativa na inicializaçõa do dia 13/06.
-  ## Funcionamentos Gerais
+## Funcionamentos Gerais
   - 
