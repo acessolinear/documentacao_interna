@@ -42,4 +42,5 @@ Abaixo listaremos as telas que já possuem a documentação implementada:
 <a href="InfoExtra.md">Informações Extras Produtos de Balança</a></p>
 <a href="LiberacaoEntradaPendente.md">Liberação Entrada Pendente</a></p>
 <a href="PromocaoPAgueMenos.md">Promoção Pague Menos</a></p>
+<a href="PromocaoProduto.md">Promoção Produto</a></p>
 <a href="RelatorioCurvaABC.md">Relatório Curva ABC</a></p>
